@@ -6,5 +6,5 @@ urlpatterns = [
      path('products/<int:id>/', views.product_detail),
      path('orders/', views.order_list),
     #  path('products/info/', views.product_info),
-    #  path('user-orders/', views.UserOrderListAPKView.as_view())
- ]
+    #  path('user-orders/', views.UserOrderListAPKView.as_view()
+    ]
